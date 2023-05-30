@@ -1,5 +1,8 @@
 # LUDO
  LUDO game
 
-<img src="![Screenshot 2023-05-30 160725](https://github.com/nirupamkumar/Ludo-Royale/assets/63305439/52fff383-735f-4bbd-9168-33b7de7ac925)
-" width="500" height="600">
+## UI
+
+![Screenshot 2023-05-30 160725](https://github.com/nirupamkumar/Ludo-Royale/assets/63305439/004a7489-6c97-4356-8bfe-ec907fe15255)![Screenshot 2023-05-30 160818](https://github.com/nirupamkumar/Ludo-Royale/assets/63305439/982aa55e-b4e2-4949-9a4d-26df6dab162e)
+
+
