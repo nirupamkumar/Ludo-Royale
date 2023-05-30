@@ -2,3 +2,5 @@
 * text=auto
 *.shader linguist-detectable=false
 *.hlsl linguist-vendored
+*.hlsl linguist-detectable=false
+
