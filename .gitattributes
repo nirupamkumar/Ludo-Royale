@@ -2,4 +2,4 @@
 * text=auto
 *.shader linguist-detectable=false
 *.hlsl linguist-language=HLSL
-
+*.hlsl linguist-detectable=false
